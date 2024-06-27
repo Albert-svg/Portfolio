@@ -1,0 +1,1 @@
+After a long time away from software development, i have decided to revisit again by building a portfolio website for myself. The site is mainly made of HTML, CSS and python flask for backend functionalities
